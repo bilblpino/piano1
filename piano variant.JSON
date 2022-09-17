@@ -1,11 +1,11 @@
 {
-	"version": "bilal",
+	"version": "Piano",
 
 
 	
-	"admobbanner": "ca-app-pub-3940256099942544/6300978111",
-"admobinter": "ca-app-pub-3940256099942544/1033173712",
-"admobreward": "ca-app-pub-3940256099942544/5224354917",
+	"admobbanner": "ca-app-pub-6471042524218394/3954895870",
+"admobinter": "ca-app-pub-6471042524218394/2254801391",
+"admobreward": "ca-app-pub-6471042524218394/2333062130",
 
 "unityid": "4922491",
 "unitybanner": "Banner_Android",
@@ -16,7 +16,7 @@
 
 
 
-		"adsswitch": "1"
+		"adsswitch": "2"
 
 	
 
